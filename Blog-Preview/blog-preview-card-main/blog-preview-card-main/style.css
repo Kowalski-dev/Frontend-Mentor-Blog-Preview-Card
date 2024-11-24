@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(47, 88%, 63%);
+    font-size: 16px;
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+}
+
+main {
+    background-color: #fff;
+    margin: 25rem 50rem;
+    width: 250px;
+    height: 550px;
+    width: 400px;
+    border: 3px solid #000;
+    border-radius: 10px;
+    box-shadow: 10px 10px #000;
+}
+
+.ilustration {
+    margin: 1rem;
+}
+
+.learn {
+    background-color: hsl(47, 88%, 63%);
+    text-align: left;
+    margin: 0 15rem 1rem 2rem;
+    padding: .2rem .5rem;
+
+}
+
+.date {
+    text-align: left;
+    margin: 0 10rem 1rem 2rem;
+    font-weight: 600;
+    color: hsl(0, 0%, 7%);
+}
+
+.funds {
+    text-align: left;
+    margin: 0 5rem 1rem 2rem;
+    font-weight: bold;
+}
+
+.prg {
+    text-align: left;
+    margin: 0 2rem 1rem 2rem;
+    font-weight: 600;
+    color: hsl(0, 0%, 42%);
+}
+
+.profile {
+    text-align: left;
+    margin: 0 0 1rem 2rem;
+}
+
+footer {
+    margin-bottom: 2rem;
+}
